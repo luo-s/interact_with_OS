@@ -41,3 +41,7 @@ with open('user_statistics.csv', 'w') as file:
         writer = csv.writer(file)
         writer.writerow(user_key)
         writer.writerows(user_list)
+
+# to execute:
+# chmod +x ticky.py
+# ./ticky.py syslog.log

@@ -12,4 +12,7 @@ with open(sys.argv[1], 'r') as file:
         subprocess.run(['mv', old_value, new_value])
 
 # to execute:
+# chmod +x findJane.sh
+# ./ findJane.sh
+# chmod +x changeJane.py
 # ./changeJane.py oldFiles.txt

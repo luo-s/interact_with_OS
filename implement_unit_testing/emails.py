@@ -35,4 +35,5 @@ if __name__ == "__main__":
   main()
 
 # to execute:
+# chmod +x emails.py
 # ./ emails.py FIRST_NAME LAST_NAME

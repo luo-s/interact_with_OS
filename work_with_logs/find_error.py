@@ -28,3 +28,7 @@ if __name__ == '__main__':
     returned_error = error_search(log_file)
     generate_report(returned_error)
     sys.exit(0)
+
+# to execute:
+# chmod +x find_error.py
+# ./find_error.py

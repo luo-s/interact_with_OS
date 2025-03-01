@@ -21,3 +21,7 @@ class EmailsTest(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+# to execute:
+# chmod +x emails_test.py
+# ./emails_test.py

@@ -27,3 +27,7 @@ def write_report(departments, report_file):
 
 write_report(process_data(read_employees(csv_file)), 'report.txt')
 
+# to execute:
+# chmod +x ./generate_report.py
+# ./generate_report.py employees.csv
+

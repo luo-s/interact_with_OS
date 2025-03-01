@@ -40,4 +40,5 @@ def main():
 main()
 
 # to execute: 
+# chmod +x replace_domain.py
 # ./replace_domain.py user_emails.csv
